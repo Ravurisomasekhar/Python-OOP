@@ -1,0 +1,11 @@
+ItineraryItem display_details test passed for flight.
+Trip add_item test passed.
+Trip remove_item test passed.
+Trip remove_item edge case test passed.
+Trip filter_items test passed.
+Trip search_items test passed.
+TravelManager create_trip and list_trips test passed.
+TravelManager get_trip test passed.
+TravelManager cross_trip_search test passed.
+TravelManager delete_trip test passed.
+TravelManager delete_trip edge case test passed.
